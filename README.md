@@ -1,4 +1,7 @@
 ## Pedro Henrique Davi Gonçalves
+<p align="center">
+  <img src="" width="200"/>
+</p>
 
 ## Introdução
 Olá! Meu nome é Pedro, tenho 23 anos e sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC - SJC. No ramo da tecnologia da informação, tive a oportunidade de estagiar na área de Banco de dados, e particularmente, foi uma seção de aprendizado que me desepertou grande interesse e motivação para continuar a adquirir conhecimentos sobre.
