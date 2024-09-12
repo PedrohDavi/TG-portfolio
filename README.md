@@ -1,4 +1,3 @@
-
   <h1 align="center"> Pedro Henrique Davi Gonçalves </h1>
 
 
@@ -17,6 +16,7 @@ Recentemente, redigi um artigo científico com orientação do professor Joares 
 ## Contatos
 <div>
 <a href="https://www.linkedin.com/in/pedrohdavi"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:pedro.henrique04896@gmail.com"target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## Meus Principais Conhecimentos
@@ -39,13 +39,18 @@ A seguir, estão as ferramentas na área de TI que tenho mais afinidade ao longo
 
 ## Meus Projetos
 
-## Em 2022-2
+## 1º Semestre (2022-2)
 
 O primeiro projeto realizado ao longo do curso foi um desafio proposto pela própria FATEC-SJC. A instituição exerceu o papel de empresa parceira e tivemos como nosso cliente final o professor Antônio Egydio São Tiago Graça, que foi muito importante para o aprendizado sobre como funciona a relação com um cliente.
 
 O objetivo do projeto proposto visa a identificação de problemas em computadores dos laborátórios de informática da FATEC-SJC, e a partir disso, realizar abertura de chamados internos para que as correções sejam aplicadas de forma mais rápida e efetiva.
 
 Suportfy foi o nome dado a aplicação feita pela minha equipe (Equipe Alpha), que trouxe uma aplicação web simples e intuitiva capaz de visualizar todos os laboratórios de informática e seus computadores, abrir chamados e encaminhá-los por e-mail para a área responsável e editar layouts, tornando a manipulação de máquinas mais prática.
+
+<div>
+  <h3>Github do projeto</h3>
+  <a href="https://github.com/EquipeAlpha1/suportfyAPI"target="_blank"><img src="https://user-images.githubusercontent.com/111616660/190719341-f501098e-ce0b-45c1-b17a-7cde552df02e.png"target="_blank"></a>
+</div>
 
 
 ### Tecnologias Utilizadas
