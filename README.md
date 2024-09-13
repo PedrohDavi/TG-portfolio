@@ -27,7 +27,7 @@ A seguir, estão as ferramentas na área de TI que tenho mais afinidade ao longo
 - HTML <img align="center" alt="HTML" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 - CSS <img align="center" alt="CSS" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 - Bootstrap <img align="center" alt="Js" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-- ChakraUI 
+- ChakraUI <img align="center" alt="Js" height="18" width="18" src="./Arquivos/Icons/icons8-chakra-ui.svg">
 - JavaScript <img align="center" alt="Js" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 ### Backend
