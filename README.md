@@ -26,6 +26,8 @@ A seguir, estão as ferramentas na área de TI que tenho mais afinidade ao longo
 ### Frontend
 - HTML <img align="center" alt="HTML" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 - CSS <img align="center" alt="CSS" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- Bootstrap <img align="center" alt="Js" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+- ChakraUI 
 - JavaScript <img align="center" alt="Js" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 ### Backend
@@ -36,6 +38,11 @@ A seguir, estão as ferramentas na área de TI que tenho mais afinidade ao longo
 ### Banco de dados
 - MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 - MongoDB <img align="center" alt="MongoDB" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+- MariaDB <img align="center" alt="MariaDB" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" />
+
+### Frameworks
+- Flask <img align="center" alt="Flask" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
+- React <img align="center" alt="Flask" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 
 ## Meus Projetos
 
@@ -49,7 +56,7 @@ Suportfy foi o nome dado a aplicação feita pela minha equipe (Equipe Alpha), q
 
 <div>
   <h3>Github do projeto</h3>
-  <a href="https://github.com/EquipeAlpha1/suportfyAPI"target="_blank"><img src="https://user-images.githubusercontent.com/111616660/190719341-f501098e-ce0b-45c1-b17a-7cde552df02e.png"target="_blank"></a>
+  <a href="https://github.com/EquipeAlpha1/suportfyAPI"target="_blank"><img bg="white" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"target="_blank"></a>
 </div>
 
 
