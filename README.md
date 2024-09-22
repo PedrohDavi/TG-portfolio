@@ -1,4 +1,4 @@
-  <h1 align="center"> Pedro Henrique Davi Gonçalves </h1>
+<h1 align="center"> Pedro Henrique Davi Gonçalves </h1>
 
 
 <p align="center">
@@ -49,7 +49,7 @@ A seguir, estão as ferramentas na área de TI que tenho mais afinidade ao longo
 
 <details> 
 <summary>API 1° Semestre (2022-2)</summary>
-
+<br>
 
 O primeiro projeto realizado ao longo do curso foi um desafio proposto pela própria FATEC-SJC. A instituição exerceu o papel de empresa parceira e tivemos como nosso cliente final o professor Antônio Egydio São Tiago Graça, que foi muito importante para o aprendizado sobre como funciona a relação com um cliente.
 
@@ -104,7 +104,7 @@ As soft skills quem me ajudaram no projeto foram:
 
 <details> 
 <summary>API 4° Semestre (2024-1)</summary>
-
+<br>
 
 O projeto foi desenvolvido em parceria com a SIATT, uma empresa de grande renome no setor aeroespacial, reconhecida por sua atuação na fabricação de mísseis para a Marinha Brasileira. A SIATT buscava uma solução eficiente para o gerenciamento de reuniões entre seus colaboradores, atendendo às demandas de comunicação e organização, especialmente em um cenário corporativo de alta complexidade.
 
@@ -133,6 +133,11 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 
 ### Contribuições Pessoais
 
+Neste projeto, minha principal contribuição foi o desenvolvimento de todos os componentes de botões e a criação de formulários para o agendamento e gestão de salas físicas, virtuais e híbridas. Utilizando React como tecnologia principal, criei botões reutilizáveis e altamente customizáveis, com diferentes variações de estilo e comportamento, de acordo com as necessidades do sistema. Os botões foram projetados de forma modular, permitindo que fossem facilmente incorporados em diversos contextos da aplicação, como em formulários, painéis de controle e telas de confirmação.
+
+Além dos botões, também atuei na construção de formulários que permitiam a criação e gerenciamento de diferentes tipos de reuniões. Cada formulário foi cuidadosamente estruturado para fornecer uma experiência de usuário intuitiva, permitindo a escolha entre opções de reuniões físicas, virtuais (integradas com Zoom) ou híbridas. A validação dos dados e a conexão dos campos do formulário ao backend, utilizando MySQL e Next.js, foi uma das partes mais críticas, garantindo que as informações inseridas fossem corretamente armazenadas e recuperadas para futuras interações.
+
+A escolha por componentes modulares e formulários conectados ao backend foi justificada pela necessidade de escalabilidade e manutenção. Utilizando React, consegui criar uma base sólida de componentes que poderiam ser reutilizados em outras partes do sistema, reduzindo o esforço de desenvolvimento e aumentando a consistência da interface. A integração direta com o backend também foi fundamental para garantir a integridade dos dados e a comunicação eficiente entre frontend e backend.
 
 
 ### Hard Skills
@@ -150,6 +155,6 @@ As soft skills quem me ajudaram no projeto foram:
 
 * Trabalho em equipe - Essencial para o sucesso do projeto, porque cada integrante trabalha de uma forma e tem determinado nível de conhecimento, as reuniões e conversas individuais com os demais desenvolvedores ajudaram de maneira significante na divisão de tarefas e esforços;
 
-* Colaboração - 
+* Colaboração - Essa soft skill se mostrou muito importante na relação de dependência de tarefas, pois algumas delas necessitavam que outras fossem entregues para serem concluídas. As reuniões e feedbacks aplicados ajudaram para que tivessemos a colaboração entre todos integrantes do grupo, assim conseguindo concluir as user storys como o planejado.
 
 </details>
