@@ -10,7 +10,6 @@ Olá! Meu nome é Pedro, tenho 23 anos e sou estudante do 5º semestre do curso 
 Minha experiência profissional teve início em 2020, quando fui contratado como operador de teleatendimento. Apesar de não ser o ramo que desejo seguir em minha carreira, me ajudou muito a desenvolver algumas competências comportamentais como: responsabilidade, trabalho em equipe, autonomia, prontidão, organização, entre outros.
 No início de 2024, tive a oportunidade de estagiar na área de Banco de dados, e particularmente, foi uma seção de aprendizado que me desepertou grande interesse e motivação para continuar a adquirir conhecimentos sobre.
 
-Recentemente, redigi um artigo científico com orientação do professor Joares Lidovino, o mesmo busca um estudo do tipo revisão bibliográfica sobre Privacidade e proteção de dados em redes sociais e está disponível em meu Linkedin.
 
 
 ## Contatos
