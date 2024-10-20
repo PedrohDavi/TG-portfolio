@@ -102,3 +102,48 @@ As soft skills quem me ajudaram no projeto foram:
 * Resilência - Soft skill extremamente necessária, principalmente após a primeira entrega, onde tivemos um feedback negativo do cliente. Serviu de motivação e para entendimento do que precisaria ser mudado, a resilência me ajudou a levar esse feedback como uma oportunidade de melhorar nos quesitos desenvolvimento e apresentação ao cliente. 
 
 </details>
+
+<details>
+<summary>API 2° Semestre (2023-1)</summary>
+<br>
+
+No segundo semestre do curso, a "empresa parceira" foi novamente a própria FATEC-SJC com o professor Giuliano Araujo Bertoti sendo o cliente, e o desafio proposto foi uma ferramenta de gerenciamento escolar, visando otimizar a organização de um professor em relação a seus alunos, no que diz respeito a atividades, trabalhos e provas.
+
+A solução apresentada pela Equipe Alpha, foi uma ferramenta desktop que exibe de forma objetiva informações sobre atividades e pendências de alunos que ainda não atenderam determinada demanda do professor. O software desenvolvido, não tem a necessidade de conexão com a internet, pois o cenário apresentado pelo cliente propôs que não fosse necessário devido a baixa qualidade da mesma no contexto. Com a solução apresentada, o usuário é capaz de cadastrar escolas, turmas, alunos e atividades, além disso também é possível visualizar os alunos que ainda não entregaram determinada atividade.
+
+<h3>Github do projeto</h3>
+
+[GitHub](https://github.com/EquipeAlpha1/Agis)
+
+### Tecnologias Utilizadas
+
+As tecnologias utilizadas nesse projeto foram as seguintes:
+
+* Java - Linguagem de programação usada no front e backend;
+* MySQL - Banco de dados relacional usado na aplicação;
+* Astah - Ferramenta usada para fazer diagrama UML, modelagem do Backend;
+* Jira - Gerenciamento de tarefas do grupo;
+* Figma - Prototipação das interfaces de usuário;
+* Intellij IDEA - IDE usada pra desenvolvimento.
+
+### Contribuições Pessoais
+
+* Atuei na modelagem inicial do diagrama UML, que se mostrou muito importante no desenvolvimento do projeto, pois todas as interações relacionadas ao backend, seguiram a estrutura apresentada no diagrama;
+* Participei da modelagem do Banco de dados, visnado armazenar apenas o necessário no contexto da aplicação. A escolha do Banco de dados MySQL, se deu por conta da compatibilidade e facilidade da implementação no software;
+* Criei as páginas de cadastro de escola, turma e aluno, para isso foi utilizado Java Swing que visou priorizar mais a funcionalidade das interfaces do que a estilização, pois as telas do usuário são simples, porém intuitivas para uso.
+
+### Hard Skills
+As hard skills que mais desenvolvi com o projeto foram:
+
+* Java - Faço com ajuda;
+* Modelagem UML - Faço com ajuda;
+* Modelagem BD - Faço com autonomia;
+* Versionamento de código (Git) - Faço com autonomia.
+
+### Soft Skills
+As soft skills quem me ajudaram no projeto foram:
+
+* Autonomia - Devido a algumas ausências importantes com relação a API anterior, foi necessário realizar muitas das tarefas de forma autônoma, com isso muitas video aulas e conversas com o professor da matéria relacionada, foram necessárias e ajudaram de forma significativa;
+* Proatividade - Com um grupo menor do que o anterior, precisei mostrar atitude de se colocar a disposição para que a produtividade do trabalho não fosse afetada, visto que a carga de tarefas seria maior;
+* Assertividade - A assertividade foi essencial no momento de tomar decisões rápidas e claras durante a execução do projeto, principalmente no início quando foi necessário definir as tecnlogias a serem utilizadas. Saber comunicar de forma objetiva e precisa tanto problemas quanto soluções ajudou a manter o foco da equipe, garantindo que o andamento das tarefas fosse eficiente e que as expectativas do cliente fossem atendidas.
+</details>
