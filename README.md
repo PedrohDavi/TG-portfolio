@@ -134,8 +134,9 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 <summary><h3>Contribuições Pessoais</h3></summary>
   
 * Atuei na modelagem inicial do diagrama UML, que se mostrou muito importante no desenvolvimento do projeto, pois todas as interações relacionadas ao backend, seguiram a estrutura apresentada no diagrama;
-* Participei da modelagem do Banco de dados, visnado armazenar apenas o necessário no contexto da aplicação. A escolha do Banco de dados MySQL, se deu por conta da compatibilidade e facilidade da implementação no software;
-* Criei as páginas de cadastro de escola, turma e aluno, para isso foi utilizado Java Swing que visou priorizar mais a funcionalidade das interfaces do que a estilização, pois as telas do usuário são simples, porém intuitivas para uso.
+* Participei da modelagem do Banco de dados, visando armazenar apenas o necessário no contexto da aplicação. A escolha do Banco de dados MySQL, se deu por conta da compatibilidade e facilidade da implementação no software;
+* Criei as páginas de cadastro de escola, turma e aluno, para isso foi utilizado Java Swing que visou priorizar mais a funcionalidade das interfaces do que a estilização, pois as telas do usuário são simples, porém intuitivas para uso;
+* Nessa API também pude participar na escolha das tecnologias utilizadas e na avaliação de como essas seriam benéficas ao grupo. Optar por Java Swing, se mostrou eficiente, pois trouxe mais facilidade no uso com a IDE escolhida e na visulização das interfaces do frontend, consequentemente melhorou a produtividade na criação das telas de usuário.
 </details>
 
 ### Hard Skills
