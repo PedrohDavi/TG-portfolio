@@ -159,7 +159,7 @@ As soft skills quem me ajudaram no projeto foram:
 <summary>API 3° Semestre (2023-2)</summary>
 <br>
 
-A terceira API foi realizada com a equipe BuzzTech e teve como cliente a empresa Ionic Health. A organização propôs o desafio de desenvolver uma solução para gerenciamento de processos e auditorias, visando manter o controle e a organização dos mesmos e permitir o acompanhamento de cada etapa de determinado processo, garantindo assim o cumprimento dos prazos de clientes externos.
+A terceira API foi realizada com a equipe BuzzTech e teve como cliente a empresa Ionic Health, que atua no ramo da saúde, especificamente com exames de imagem. A organização propôs o desafio de desenvolver uma solução para gerenciamento de processos e auditorias, visando manter o controle e a organização dos mesmos e permitir o acompanhamento de cada etapa de determinado processo, garantindo assim o cumprimento dos prazos de clientes externos. A ideia de tal software, surgiu da necessidade de obter mais organização dos processos, pois por serem extremamente burocráticos, demandam um controle sobre cada etapa de detreminada requisição do cliente, tudo isso precisa estar devidamente documentado para possíveis correções ou mudanças sobre os processos.
 
 Com isso, desenvolvemos uma aplicação web capaz de criar, monitorar e registrar cada etapa dos processos regulatórios necessários para a Ionic Health. O ponto focal do projeto foi facilitar ao máximo a experiência do usuário, com interfaces intuitivas e de fácil acesso, visto que os processos a serem registrados já são de alta complexidade, segundo o cliente.
 
@@ -262,3 +262,53 @@ As soft skills quem me ajudaram no projeto foram:
 * Trabalho em equipe - No projeto, colaborar com desenvolvedores de diferentes níveis de experiência e habilidades exigiu uma abordagem adaptativa. Participei ativamente de reuniões para alinhar expectativas, definir papéis e apoiar colegas em suas tarefas, quando necessário. A divisão eficiente das responsabilidades e as discussões regulares ajudaram a manter a sincronia entre o frontend e o backend, além de evitar retrabalho. Ao compartilhar conhecimentos e aprender com o time, consegui melhorar tanto minha produtividade quanto a dos outros membros da equipe.
 
 </details>
+<details>
+<summary>API 5° Semestre (2024-2)</summary>
+<br>
+
+A quinta API foi um desafio proposto pela Kersys, empresa que atua na área de gestão florestal, oferecendo sistemas específicos para o produtor rural que visa maximizar a análise de dados para determinado local. 
+
+Muitas das vezes, o produtor rural não tem dados precisos relacionados às alterações climáticas de um local que pretende fazer o plantio ou que já possui uma colônia. Isso dificulta a produção a longo prazo, pois mesmo que tenha dados do presente, não é possível saber como o clima do local irá variar com o tempo. Outro fator relevante com relação a análise climática, é o fato de que em muitos locais não possuem conexão estável com a internet, fazendo com que o produtor tenha dados imprecisos ou desatualizados dependendo do equipamento utilizado.
+
+Pensando nisso, a Kersys nos propôs um software que seja capaz de acompanhar o histórico das variações das informações climáticas de um determinado local. O usuário também deve poder cadastrar suas áreas e acompanhar as mudanças que ocorrem sobre dois aspectos: pluviosidade e temperatura. Como solução, implementamos uma aplicação mobile que através de uma API externa, é capaz de acompanhar o histórico de variação de pluviosidade e temperatura de acordo com a entrada do usuário. O produtor, também é capaz de cadastrar áreas que possui lavoura com base na latitude e longitude do local que é obtida através de um mapa de fácil navegação.
+
+
+<h3>Github do projeto</h3>
+
+[GitHub](https://github.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2)
+
+### Tecnologias Utilizadas
+
+As tecnologias utilizadas nesse projeto foram as seguintes:
+
+* React Native- Tecnologia utilizada para desenvolvimento frontend mobile;
+* Figma - Usado para prototipação do frontend do software;
+* Python - Linguagem de programação para desenvolvimento Backend;
+* TypeScript - Linguagem de programação para desenvolvimento Frontend;
+* FastAPI - Ferramenta usada para testar as rotas Backend;
+* Firebase - Banco de dados usado para salvar informações de áreas do usuário e plantações.
+
+
+<details>
+<summary><h3>Contribuições Pessoais</h3></summary>
+
+
+</details>
+
+### Hard Skills
+
+As hard skills que mais desenvolvi com o projeto foram:
+
+* React Native - uso com ajuda de integrantes.
+* TypeScript - uso com ajuda de integrantes;
+* FastAPI - uso com autonomia.
+
+### Soft Skills
+
+As soft skills quem me ajudaram no projeto foram:
+
+* 
+* 
+
+</details>
+
