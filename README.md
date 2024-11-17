@@ -5,7 +5,7 @@
   <img src="./Arquivos/Foto-portifolio.jpg" width="320"/>
 </p>
 
-Olá! Meu nome é Pedro, tenho 23 anos e sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC - SJC. Iniciei meus estudos na área da tecnologia estudando por conta própria pela influência de alguns amigos do ensino médio. No começo não foi nada fácil, mas com o tempo fui gostando mais dessa área de estudo, até conhecer a FATEC, onde vi a oportunidade de me qualificar profissionalmente como programador e/ou afins.
+Olá! Meu nome é Pedro, tenho 24 anos e sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC - SJC. Iniciei meus estudos na área da tecnologia estudando por conta própria pela influência de alguns amigos do ensino médio. No começo não foi nada fácil, mas com o tempo fui gostando mais dessa área de estudo, até conhecer a FATEC, onde vi a oportunidade de me qualificar profissionalmente como programador e/ou afins.
 
 Minha experiência profissional teve início em 2020, quando fui contratado como operador de teleatendimento na Atento S/A. Apesar de não ser o ramo que desejo seguir em minha carreira, me ajudou muito a desenvolver algumas competências comportamentais como: responsabilidade, trabalho em equipe, autonomia, prontidão, organização, entre outros.
 No início de 2024, tive a oportunidade de estagiar na área de Banco de dados na HTI Tecnologia, e particularmente, foi uma seção de aprendizado que me desepertou grande interesse e motivação para continuar a adquirir conhecimentos sobre.
@@ -75,8 +75,8 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 * Python - Linguagem de programação que atuou no Backend do software;
 * SQLite - Banco de dados relacional de uso simples que foi capaz de salvar os dados dos laboratórios e das máquinas, assim como suas alterações.
 
-<details>
-<summary><h3>Contribuições Pessoais</h3></summary>
+
+<h3>Contribuições Pessoais</h3>
 <br>
   
 * Atuação no time de desenvolvimento, contribuindo com a construção e estilização de páginas. Em todos os códigos, busquei manter o HTML o mais semântico possível para facilitar a compreensão e manutenção do código;
@@ -85,7 +85,7 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 * Responsável por toda a documentação do projeto, incluindo o README.
  
 Nota: Inicialmente, realizava commits diretamente pela conta do projeto, posteriormente entendi que não é uma boa prática.
-</details>
+
 
 ### Hard Skills
 As hard skills que mais desenvolvi com o projeto foram:
@@ -98,9 +98,9 @@ As hard skills que mais desenvolvi com o projeto foram:
 ### Soft Skills
 As soft skills quem me ajudaram no projeto foram:
 
-* Organização - Muito importante pra mim, pois a ordem de realização das tarefas precisou ser distribuída de maneira assertiva para que nenhuma parte do desenvolvimento do grupo fosse comprometida, tanto na documentação como no código;
+* Organização - Muito importante pra mim, pois a ordem de realização das tarefas precisou ser distribuída de maneira assertiva para que nenhuma parte do desenvolvimento do grupo fosse comprometida, tanto na documentação como no código. Na terceira sprint, essa softskill se tornou essencial devido ao número de tarefas e seus determinados esforços que eram altos, mantendo a organização conseguimos finalizar a maior parte da API;
 
-* Trabalho em equipe - Essencial para o sucesso do projeto, porque cada integrante trabalha de uma forma e tem determinado nível de conhecimento, as reuniões e conversas individuais com os demais desenvolvedores ajudaram de maneira significante na divisão de tarefas e esforços. Além disso, buscar o auxilio de integrantes com mais conhecimento e experiência foi determinante para conclusão de minhas tarefas.
+* Trabalho em equipe - Essencial para o sucesso do projeto, porque cada integrante trabalha de uma forma e tem determinado nível de conhecimento, as reuniões e conversas individuais com os demais desenvolvedores ajudaram de maneira significante na divisão de tarefas e esforços. Além disso, buscar o auxilio de integrantes com mais conhecimento e experiência foi determinante para conclusão de minhas tarefas, por exemplo, no início tive muita dificuldade em aplicar o bootstrap no desenvolvimento frontend, então com a ajuda do PO pude entender e aprender como a tecnologia é aplicada de forma responsiva no desenvolvimento web;
 
 * Resilência - Soft skill extremamente necessária, principalmente após a primeira entrega, onde tivemos um feedback negativo do cliente. Serviu de motivação e para entendimento do que precisaria ser mudado, a resilência me ajudou a levar esse feedback como uma oportunidade de melhorar nos quesitos desenvolvimento e apresentação ao cliente. 
 
@@ -130,14 +130,12 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 * Intellij IDEA - IDE usada pra desenvolvimento.
 
 
-<details>
-<summary><h3>Contribuições Pessoais</h3></summary>
-  
+<h3>Contribuições Pessoais</h3>
 * Atuei na modelagem inicial do diagrama UML, que se mostrou muito importante no desenvolvimento do projeto, pois todas as interações relacionadas ao backend, seguiram a estrutura apresentada no diagrama;
 * Participei da modelagem do Banco de dados, visando armazenar apenas o necessário no contexto da aplicação. A escolha do Banco de dados MySQL, se deu por conta da compatibilidade e facilidade da implementação no software;
 * Criei as páginas de cadastro de escola, turma e aluno, para isso foi utilizado Java Swing que visou priorizar mais a funcionalidade das interfaces do que a estilização, pois as telas do usuário são simples, porém intuitivas para uso;
 * Nessa API também pude participar na escolha das tecnologias utilizadas e na avaliação de como essas seriam benéficas ao grupo. Optar por Java Swing, se mostrou eficiente, pois trouxe mais facilidade no uso com a IDE escolhida e na visulização das interfaces do frontend, consequentemente melhorou a produtividade na criação das telas de usuário.
-</details>
+
 
 ### Hard Skills
 As hard skills que mais desenvolvi com o projeto foram:
@@ -181,12 +179,10 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 * PostgreSQL - Banco de dados reacional usado na aplicação.
 
 
-<details>
-<summary><h3>Contribuições Pessoais</h3></summary>
+<h3>Contribuições Pessoais</h3>
 
 * Essa API foi a que menos contribui com o time de desenvolvimento, mas pude compreender muito sobre outras formas de estilização e estruturação do frontend, isso porque além de usar o framework React, toda a construção dos componentes foi baseada na biblioteca Chakra UI.
 * Minha principal contribuição foi codificando alguns modais, necessários para interação do usuário com outras partes da aplicação.
-</details>
 
 
 ### Hard Skills
@@ -200,9 +196,9 @@ As hard skills que mais desenvolvi com o projeto foram:
 ### Soft Skills
 As soft skills quem me ajudaram no projeto foram:
 
-* Trabalho em equipe - Essa softskill foi desenvolvida por dois principais motivos, primeiro devido a relação de dependência entre tarefas e segundo por aceitar a ajuda de outros integrantes que possuem mais experiência no desenvolvimento web.
+* Trabalho em equipe - Essa softskill foi desenvolvida por dois principais motivos, primeiro devido a relação de dependência entre tarefas e segundo por aceitar a ajuda de outros integrantes que possuem mais experiência no desenvolvimento web. Precisei terminar minhas tarefas com tempo hábil para que meus componentes pudessem fazer requisições para outras partes do projeto;
 
-* Comunicação - Uma característica comportamental básica, porém essencial. Através da comunicação com o grupo (especialmente com o PO), me ajudou a entender de fato como determinada tarefa devia ser realizada e quais as características necessárias para validação do cliente.
+* Comunicação - Uma característica comportamental básica, porém essencial. Através da comunicação com o grupo (especialmente com o PO), me ajudou a entender de fato como determinada tarefa devia ser realizada e quais as características necessárias para validação do cliente, diversas vezes precisei entrar em ligação com o PO para seber se o caminho seguido estava correto, isso ajudou nas entregas feitas em conformidade com o prototipado anteriormente.
 
 </details>
 
@@ -233,8 +229,7 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 * NextJS - Framework backend que foi útil para criação de rotas e gerenciar API do Zoom.
 
 
-<details>
-<summary><h3>Contribuições Pessoais</h3></summary>
+<h3>Contribuições Pessoais</h3>
 
 Neste projeto, minha principal contribuição foi o desenvolvimento de todos os componentes de botões e a criação de formulários para o agendamento e gestão de salas físicas, virtuais e híbridas. Utilizando React como tecnologia principal, criei botões reutilizáveis e altamente customizáveis, com diferentes variações de estilo e comportamento, de acordo com as necessidades do sistema. Os botões foram projetados de forma modular, permitindo que fossem facilmente incorporados em diversos fluxos da aplicação, como em formulários, painéis de controle e telas de confirmação.
 
@@ -243,7 +238,6 @@ Além dos botões, também atuei na construção de formulários que permitiam a
 A validação dos dados e a conexão dos campos do formulário ao backend, utilizando MySQL e Next.js, foi uma das partes mais críticas, garantindo que as informações inseridas fossem corretamente armazenadas e recuperadas para futuras interações.
 
 A escolha por componentes modulares e formulários conectados ao backend foi justificada pela necessidade de escalabilidade e manutenção. Utilizando React, consegui criar uma base sólida de componentes que poderiam ser reutilizados em outras partes do sistema, reduzindo o esforço de desenvolvimento e aumentando a consistência da interface. A integração direta com o backend também foi fundamental para garantir a integridade dos dados e a comunicação eficiente entre frontend e backend.
-</details>
 
 ### Hard Skills
 
@@ -262,15 +256,16 @@ As soft skills quem me ajudaram no projeto foram:
 * Trabalho em equipe - No projeto, colaborar com desenvolvedores de diferentes níveis de experiência e habilidades exigiu uma abordagem adaptativa. Participei ativamente de reuniões para alinhar expectativas, definir papéis e apoiar colegas em suas tarefas, quando necessário. A divisão eficiente das responsabilidades e as discussões regulares ajudaram a manter a sincronia entre o frontend e o backend, além de evitar retrabalho. Ao compartilhar conhecimentos e aprender com o time, consegui melhorar tanto minha produtividade quanto a dos outros membros da equipe.
 
 </details>
+
 <details>
 <summary>API 5° Semestre (2024-2)</summary>
 <br>
 
 A quinta API foi um desafio proposto pela Kersys, empresa que atua na área de gestão florestal, oferecendo sistemas específicos para o produtor rural que visa maximizar a análise de dados para determinado local. 
 
-Muitas das vezes, o produtor rural não tem dados precisos relacionados às alterações climáticas de um local que pretende fazer o plantio ou que já possui uma colônia. Isso dificulta a produção a longo prazo, pois mesmo que tenha dados do presente, não é possível saber como o clima do local irá variar com o tempo. Outro fator relevante com relação a análise climática, é o fato de que em muitos locais não possuem conexão estável com a internet, fazendo com que o produtor tenha dados imprecisos ou desatualizados dependendo do equipamento utilizado.
+Muitas vezes, o produtor rural não tem dados precisos relacionados às alterações climáticas de um local que pretende fazer o plantio ou que já possui uma colônia. Isso dificulta a produção a longo prazo, pois mesmo que tenha dados do presente, não é possível saber como o clima do local irá variar com o tempo. Outro fator relevante com relação a análise climática, é o fato de que em muitos locais não possuem conexão estável com a internet, fazendo com que o produtor tenha dados imprecisos ou desatualizados dependendo do equipamento utilizado.
 
-Pensando nisso, a Kersys nos propôs um software que seja capaz de acompanhar o histórico das variações das informações climáticas de um determinado local. O usuário também deve poder cadastrar suas áreas e acompanhar as mudanças que ocorrem sobre dois aspectos: pluviosidade e temperatura. Como solução, implementamos uma aplicação mobile que através de uma API externa, é capaz de acompanhar o histórico de variação de pluviosidade e temperatura de acordo com a entrada do usuário. O produtor, também é capaz de cadastrar áreas que possui lavoura com base na latitude e longitude do local que é obtida através de um mapa de fácil navegação.
+Pensando nisso, a Kersys nos propôs um software que seja capaz de acompanhar o histórico das variações das informações climáticas de um determinado local. O usuário também deve poder cadastrar suas áreas e acompanhar as mudanças que ocorrem sobre dois aspectos: pluviosidade e temperatura. Como solução, implementamos uma aplicação mobile que através de uma API externa, é capaz de acompanhar o histórico de variação de pluviosidade e temperatura de acordo com a entrada do usuário. O produtor, também é capaz de cadastrar áreas que possui lavoura com base na latitude e longitude do local que é obtida através de um mapa de fácil navegação. O aplicativo também funciona sem conexão com a internet, dando mais flexibilidade ao usuário na escolha da área analisada.
 
 
 <h3>Github do projeto</h3>
@@ -289,11 +284,12 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 * Firebase - Banco de dados usado para salvar informações de áreas do usuário e plantações.
 
 
-<details>
-<summary><h3>Contribuições Pessoais</h3></summary>
+<h3>Contribuições Pessoais</h3>
 
+O projeto como um todo, demandou grande contribuição no desenvolvimento frontend, pois os principais componentes se relacionavam aos dados buscados da API externa que utilizamos. Nesse aspecto pude contribuir significativamente na visualização dos dados de temperatura e pluviosidade de uma determinada área ao longo do tempo. Na primeira entrega, os dados eram mostrados de uma forma simples e o usuário precisa usar o scroll para visualizar todos os dados requisitados, posteriormente isso mudo para dois gráficos (temperatura e pluviosidade), facilitando assim a análise de variação para o usuário. 
 
-</details>
+Para montar os gráficos, foi essecial entender funções que outros integrantes haviam feito no projeto, pois foi usada uma função que pega os dados da API formatados para que pudessem ser inseridos no gráfico e também foi preciso entender como os componentes precisavam estar para que fossem inseridos em uma tela do usuário.
+
 
 ### Hard Skills
 
@@ -307,8 +303,8 @@ As hard skills que mais desenvolvi com o projeto foram:
 
 As soft skills quem me ajudaram no projeto foram:
 
-* 
-* 
+* Trabalho em equipe - Se mostrou muito importante porque na primeira entrega, o gráfico que havia feito ainda não integrava com os dados do backend, então com a ajuda do PO pude fazer a visualização simples para que pudesse ser apresentada ao cliente e depois a visualização no gráfico com os dados reais.
+* Adaptabilidade - Mesmo já tendo trabalho com o desenvolvimento frontend com React, algumas coisas são diferentes no React Native, então foi necessário se adaptar de forma gradativa para que os mesmo conceitos pudessem ser usados para uma aplicação mobile, principalmente no que diz respeito a tags e responsividade das telas e componentes.
 
 </details>
 
