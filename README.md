@@ -312,7 +312,7 @@ As soft skills quem me ajudaram no projeto foram:
 <summary>API 6° Semestre (2025-1)</summary>
 <br>
 
-Nessa API, a empresa parceira foi a Dom Rock, que atua no ramo de Big Data e Inteligência Artificial, fornecendo soluções para integração, análise e gerenciamento de grandes volumes de dados. Suas plataformas são voltadas para o público B2B e têm como principais objetivos automatizar decisões, melhorar processos e gerar insights estratégicos.
+Nessa API, a empresa parceira foi a Dom Rock, que atua no ramo de Big Data e Inteligência Artificial, fornecendo soluções para integração, análise e gerenciamento de grandes volumes de dados. Suas plataformas são voltadas para empresas e têm como principais objetivos automatizar decisões e melhoria de processos.
 
 Na sexta API, o desafio proposto envolve a criação de uma aplicação web para avaliar respostas fornecidas por modelos de linguagem (LLMs), com o intuito de melhorar seu desempenho por meio de feedback humano. A ferramenta deve permitir o envio de um mesmo prompt para dois LLMs simultaneamente via API, exibir as respostas obtidas e possibilitar que o usuário avalie cada uma delas separadamente, além de escolher qual foi a melhor e justificar sua escolha. Esses dados deverão ser armazenados em um banco de dados para apoiar o processo de retreinamento dos modelos.
 
