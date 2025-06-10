@@ -308,3 +308,57 @@ As soft skills quem me ajudaram no projeto foram:
 
 </details>
 
+<details>
+<summary>API 6° Semestre (2025-1)</summary>
+<br>
+
+Nessa API, a empresa parceira foi a Dom Rock, que atua no ramo de Big Data e Inteligência Artificial, fornecendo soluções para integração, análise e gerenciamento de grandes volumes de dados. Suas plataformas são voltadas para o público B2B e têm como principais objetivos automatizar decisões, melhorar processos e gerar insights estratégicos.
+
+Na sexta API, o desafio proposto envolve a criação de uma aplicação web para avaliar respostas fornecidas por modelos de linguagem (LLMs), com o intuito de melhorar seu desempenho por meio de feedback humano. A ferramenta deve permitir o envio de um mesmo prompt para dois LLMs simultaneamente via API, exibir as respostas obtidas e possibilitar que o usuário avalie cada uma delas separadamente, além de escolher qual foi a melhor e justificar sua escolha. Esses dados deverão ser armazenados em um banco de dados para apoiar o processo de retreinamento dos modelos.
+
+A solução desenvolvida pela equipe consiste em uma plataforma com uma tela de chat que permite interações simultâneas com dois LLMs dos quais o usuário não tem conhecimento, as avaliações obtidas são salvas em banco de dados que será útil para futuros retreinamentos.
+
+
+<h3>Github do projeto</h3>
+
+[GitHub](https://github.com/BuzzTech-API/API_ADS_6SEMESTE_2025.1)
+
+### Tecnologias Utilizadas
+
+As tecnologias utilizadas nesse projeto foram as seguintes:
+
+* Vue.js- Tecnologia utilizada para desenvolvimento frontend ;
+* Figma - Usado para prototipação do frontend do software;
+* Python - Linguagem de programação para desenvolvimento Backend utilizado junto ao FastAPI;
+* TypeScript - Linguagem de programação para desenvolvimento Frontend;
+* MongoDB - Banco de dados usado para exportação de dados;
+* ChromaDB - Banco de dados usado para armazenar alguns trechos vetorizados que seriam utilizados para melhorar futuros prompts do usuário.
+
+
+<h3>Contribuições Pessoais</h3>
+
+Minhas contribuições pessoais no projeto envolveram o desenvolvimento de diversos componentes reutilizáveis utilizando Vue, como campos de input, botões, caixas de conteúdo e modais, garantindo uma interface coesa e funcional. Implementei também modais de confirmação para assegurar a execução segura de ações críticas por parte do usuário.
+
+Fui responsável pela criação da página de conclusão exibida ao final do processo de avaliação, proporcionando um encerramento claro e intuitivo da experiência do usuário. Além disso, desenvolvi a lógica para redefinição de senha com critérios de segurança robustos, voltada especificamente para administradores do sistema.
+
+Por fim, configurei as rotas de redirecionamento entre páginas, garantindo uma navegação fluida e condizente com o fluxo da aplicação.
+
+
+### Hard Skills
+
+As hard skills que mais desenvolvi com o projeto foram:
+
+* Vue.js - uso com autonomia;
+* TypeScript - uso com autonomia.
+
+### Soft Skills
+
+As soft skills quem me ajudaram no projeto foram:
+
+* Autonomia - Durante o desenvolvimento do projeto, a autonomia foi fundamental para que eu pudesse conduzir minhas tarefas com eficiência e confiança. Por exemplo, ao desenvolver os componentes em Vue e configurar as rotas de redirecionamento, precisei tomar decisões técnicas por conta própria, sem depender de validações constantes. Essa independência me permitiu manter um bom ritmo de trabalho, encontrar soluções para os desafios que surgiram e contribuir de forma consistente com o avanço do projeto.
+* Responsabilidade coletiva - A responsabilidade coletiva foi essencial ao longo do projeto, especialmente na integração das minhas entregas com o restante do sistema. Ao desenvolver funcionalidades como os modais de confirmação e a página de conclusão após a avaliação, tive o cuidado de seguir os padrões definidos pelo time, garantindo que o comportamento e o visual estivessem alinhados com o restante da aplicação. Além disso, mantive uma comunicação constante com os colegas para ajustar detalhes técnicos e funcionais, ciente de que meu trabalho impactaria diretamente na experiência final do usuário e na fluidez do sistema como um todo.
+* Pensamento crítico - O pensamento crítico foi indispensável em momentos que exigiam mais do que apenas implementar funcionalidades. Um exemplo claro foi ao desenvolver a lógica de redefinição de senha para o administrador. Analisei diferentes critérios de segurança e considerei possíveis falhas que poderiam comprometer o acesso ao sistema. Em vez de apenas seguir uma estrutura básica, questionei o que tornaria o processo mais seguro e intuitivo para o usuário. Da mesma forma, ao implementar os modais de confirmação, avaliei situações em que a ausência de uma confirmação poderia causar ações irreversíveis, o que me levou a propor melhorias na experiência e na proteção das operações.
+
+</details>
+
+
