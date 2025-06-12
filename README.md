@@ -181,7 +181,7 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 
 <h3>Contribuições Pessoais</h3>
 
-* Essa API foi a que menos contribui com o time de desenvolvimento, mas pude compreender muito sobre outras formas de estilização e estruturação do frontend, isso porque além de usar o framework React, toda a construção dos componentes foi baseada na biblioteca Chakra UI.
+* Nessa API pude compreender muito sobre outras formas de estilização e estruturação do frontend, isso porque além de usar o framework React, toda a construção dos componentes foi baseada na biblioteca Chakra UI.
 * Minha principal contribuição foi codificando alguns modais, necessários para interação do usuário com outras partes da aplicação.
 
 
