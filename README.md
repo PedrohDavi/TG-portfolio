@@ -91,8 +91,8 @@ Nota: Inicialmente, realizava commits diretamente pela conta do projeto, posteri
 As hard skills que mais desenvolvi com o projeto foram:
 
 * HTML e CSS - uso com ajuda dos integrantes e professores;
-* JavaScript - uso com ajuda de integrantes;
-* BootStrap - uso com autonomia.
+* JavaScript - Faço com autonomia;
+* BootStrap - Faço com autonomia.
 
 
 ### Soft Skills
@@ -140,8 +140,8 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 ### Hard Skills
 As hard skills que mais desenvolvi com o projeto foram:
 
-* Java - Faço com ajuda;
-* Modelagem UML - Faço com ajuda;
+* Java - Faço com autonomia;
+* Modelagem UML - Faço com autonomia;
 * Modelagem BD - Faço com autonomia;
 * Versionamento de código (Git) - Faço com autonomia.
 
@@ -182,14 +182,15 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 <h3>Contribuições Pessoais</h3>
 
 * Nessa API pude compreender muito sobre outras formas de estilização e estruturação do frontend, isso porque além de usar o framework React, toda a construção dos componentes foi baseada na biblioteca Chakra UI.
-* Minha principal contribuição foi codificando alguns modais, necessários para interação do usuário com outras partes da aplicação.
+* Minha principal contribuição foi codificando telas e modais, necessários para interação do usuário com outras partes da aplicação;
+* O projeto em si, por se assemelhar muito ao software Trello, se mostrou desafiador na questão de layout, pois são diversos boxes que abrem outros componentes como modais, acordions e entre outros. Também pude trabalhar na estilização de todos esses componentes, inclusive no layout geral do software, aplicando boas prática de UI, visto que o software é de complexa utilização para usuários comuns.
 
 
 ### Hard Skills
 As hard skills que mais desenvolvi com o projeto foram:
 
 * HTML e CSS - Faço com autonomia;
-* React - Faço com ajuda;
+* React - Faço com autonomia;
 * Chakra UI - Faço com autonomia.
 
 
@@ -295,8 +296,8 @@ Para montar os gráficos, foi essecial entender funções que outros integrantes
 
 As hard skills que mais desenvolvi com o projeto foram:
 
-* React Native - uso com ajuda de integrantes.
-* TypeScript - uso com ajuda de integrantes;
+* React Native - uso com autonomia.
+* TypeScript - uso com autonomia;
 * FastAPI - uso com autonomia.
 
 ### Soft Skills
