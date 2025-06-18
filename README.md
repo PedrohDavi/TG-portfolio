@@ -254,7 +254,7 @@ As soft skills quem me ajudaram no projeto foram:
 
 * Organização - Fundamental ao longo do projeto, já que precisei equilibrar as atividades acadêmicas com o desenvolvimento do software. Desenvolvi um cronograma pessoal para gerenciar meu tempo entre as sprints e as demandas do curso. Isso foi crucial para garantir que as entregas fossem realizadas dentro dos prazos, sem comprometer a qualidade do projeto. Além disso, a organização me ajudou a priorizar tarefas críticas, como a integração do front com o backend, garantindo um fluxo contínuo de trabalho.
 
-* Trabalho em equipe - No projeto, colaborar com desenvolvedores de diferentes níveis de experiência e habilidades exigiu uma abordagem adaptativa. Participei ativamente de reuniões para alinhar expectativas, definir papéis e apoiar colegas em suas tarefas, quando necessário. A divisão eficiente das responsabilidades e as discussões regulares ajudaram a manter a sincronia entre o frontend e o backend, além de evitar retrabalho. Ao compartilhar conhecimentos e aprender com o time, consegui melhorar tanto minha produtividade quanto a dos outros membros da equipe.
+* Trabalho em equipe – No projeto, o trabalho em equipe foi essencial principalmente para que eu pudesse entender, junto aos integrantes responsáveis pelo backend, como os dados estavam sendo armazenados no banco de dados. Essa troca foi crucial para que eu conseguisse integrar corretamente o formulário no frontend, garantindo que os dados fossem enviados de forma adequada para a API. Colaborei ativamente com o time sempre questionando sobre como alinhar a estrutura dos dados, esclarecer dúvidas sobre os endpoints e ajustar o envio das informações conforme as validações definidas no backend. Essa interação direta evitou erros de comunicação, retrabalho e contribuiu para uma integração fluida entre as duas partes do sistema.
 
 </details>
 
@@ -313,11 +313,13 @@ As soft skills quem me ajudaram no projeto foram:
 <summary>API 6° Semestre (2025-1)</summary>
 <br>
 
-Nessa API, a empresa parceira foi a Dom Rock, que atua no ramo de Big Data e Inteligência Artificial, fornecendo soluções para integração, análise e gerenciamento de grandes volumes de dados. Suas plataformas são voltadas para empresas e têm como principais objetivos automatizar decisões e melhoria de processos.
+Nessa API, a empresa parceira foi a Dom Rock, que atua no ramo de Big Data e Inteligência Artificial, fornecendo soluções para integração, análise e gerenciamento de grandes volumes de dados. Suas plataformas são voltadas para empresas, com foco na automação de decisões e melhoria de processos.
 
-Na sexta API, o desafio proposto envolve a criação de uma aplicação web para avaliar respostas fornecidas por modelos de linguagem (LLMs), com o intuito de melhorar seu desempenho por meio de feedback humano. A ferramenta deve permitir o envio de um mesmo prompt para dois LLMs simultaneamente via API, exibir as respostas obtidas e possibilitar que o usuário avalie cada uma delas separadamente, além de escolher qual foi a melhor e justificar sua escolha. Esses dados deverão ser armazenados em um banco de dados para apoiar o processo de retreinamento dos modelos.
+O projeto surgiu a partir da necessidade de cuidadores de pessoas com Alzheimer obterem respostas rápidas e assertivas sobre como agir em determinadas situações com os pacientes. No entanto, um problema recorrente no uso de modelos de linguagem (LLMs) é que, muitas vezes, as respostas geradas a partir de um prompt isolado carecem de contexto — o que pode levar a respostas imprecisas ou que não condizem com a realidade, especialmente em cenários sensíveis como o cuidado com pacientes com Alzheimer.
 
-A solução desenvolvida pela equipe consiste em uma plataforma com uma tela de chat que permite interações simultâneas com dois LLMs dos quais o usuário não tem conhecimento, as avaliações obtidas são salvas em banco de dados que será útil para futuros retreinamentos.
+Na sexta API, o desafio proposto foi desenvolver uma aplicação web capaz de avaliar respostas fornecidas por LLMs, com o objetivo de melhorar seu desempenho por meio de feedback humano. A ferramenta permite enviar um mesmo prompt simultaneamente para dois modelos de linguagem por meio de API, exibir as respostas obtidas e possibilitar que o usuário avalie cada uma separadamente, escolha a que considerar melhor e justifique sua decisão. Todos os dados coletados são armazenados em um banco de dados, servindo de base para futuros processos de retreinamento e aprimoramento dos modelos.
+
+A solução desenvolvida pela equipe consistiu em uma plataforma com uma interface de chat que viabiliza interações simultâneas com dois LLMs (sem que o usuário saiba quais são), permitindo uma comparação imparcial e baseada na experiência do usuário. Com isso, busca-se não apenas aprimorar os modelos, mas também garantir respostas mais contextuais e adequadas a cenários reais, como o cuidado de pessoas com Alzheimer.
 
 
 <h3>Github do projeto</h3>
