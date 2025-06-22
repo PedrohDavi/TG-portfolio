@@ -5,7 +5,7 @@
   <img src="./Arquivos/Foto-portifolio.jpg" width="320"/>
 </p>
 
-Olá! Meu nome é Pedro, tenho 24 anos e sou estudante do 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC - SJC. Iniciei meus estudos na área da tecnologia estudando por conta própria pela influência de alguns amigos do ensino médio. No começo não foi nada fácil, mas com o tempo fui gostando mais dessa área de estudo, até conhecer a FATEC, onde vi a oportunidade de me qualificar profissionalmente como programador e/ou afins.
+Olá! Meu nome é Pedro, tenho 24 anos e sou estudante do 6º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC - SJC. Iniciei meus estudos na área da tecnologia estudando por conta própria pela influência de alguns amigos do ensino médio. No começo não foi nada fácil, mas com o tempo fui gostando mais dessa área de estudo, até conhecer a FATEC, onde vi a oportunidade de me qualificar profissionalmente como programador e/ou afins.
 
 Minha experiência profissional teve início em 2020, quando fui contratado como operador de teleatendimento na Atento S/A. Apesar de não ser o ramo que desejo seguir em minha carreira, me ajudou muito a desenvolver algumas competências comportamentais como: responsabilidade, trabalho em equipe, autonomia, prontidão, organização, entre outros.
 No início de 2024, tive a oportunidade de estagiar na área de Banco de dados na HTI Tecnologia, e particularmente, foi uma seção de aprendizado que me desepertou grande interesse e motivação para continuar a adquirir conhecimentos sobre.
