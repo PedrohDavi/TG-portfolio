@@ -52,6 +52,9 @@ A seguir, estão as ferramentas na área de TI que tenho mais afinidade ao longo
 <summary>API 1° Semestre (2022-2)</summary>
 <br>
 
+### Projeto Suportfy
+<br>
+
 O primeiro projeto realizado ao longo do curso foi um desafio proposto pela própria FATEC-SJC. A instituição exerceu o papel de empresa parceira e tivemos como nosso cliente final o professor Antônio Egydio São Tiago Graça, que foi muito importante para o aprendizado sobre como funciona a relação com um cliente.
 
 O objetivo do projeto proposto visa a identificação de problemas em computadores dos laborátórios de informática da FATEC-SJC, e a partir disso, realizar abertura de chamados internos para que as correções sejam aplicadas de forma mais rápida e efetiva.
@@ -110,6 +113,9 @@ As soft skills quem me ajudaram no projeto foram:
 <summary>API 2° Semestre (2023-1)</summary>
 <br>
 
+### Projeto Agis
+<br>
+
 No segundo semestre do curso, a "empresa parceira" foi novamente a própria FATEC-SJC com o professor Giuliano Araujo Bertoti sendo o cliente, e o desafio proposto foi uma ferramenta de gerenciamento escolar, visando otimizar a organização de um professor em relação a seus alunos, no que diz respeito a atividades, trabalhos e provas.
 
 A solução apresentada pela Equipe Alpha, foi uma ferramenta desktop que exibe de forma objetiva informações sobre atividades e pendências de alunos que ainda não atenderam determinada demanda do professor. O software desenvolvido, não tem a necessidade de conexão com a internet, pois o cenário apresentado pelo cliente propôs que não fosse necessário devido a baixa qualidade da mesma no contexto. Com a solução apresentada, o usuário é capaz de cadastrar escolas, turmas, alunos e atividades, além disso também é possível visualizar os alunos que ainda não entregaram determinada atividade.
@@ -155,6 +161,9 @@ As soft skills quem me ajudaram no projeto foram:
 
 <details> 
 <summary>API 3° Semestre (2023-2)</summary>
+<br>
+
+### Projeto SOGAP
 <br>
 
 A terceira API foi realizada com a equipe BuzzTech e teve como cliente a empresa Ionic Health, que atua no ramo da saúde, especificamente com exames de imagem. A organização propôs o desafio de desenvolver uma solução para gerenciamento de processos e auditorias, visando manter o controle e a organização dos mesmos e permitir o acompanhamento de cada etapa de determinado processo, garantindo assim o cumprimento dos prazos de clientes externos. A ideia de tal software, surgiu da necessidade de obter mais organização dos processos, pois por serem extremamente burocráticos, demandam um controle sobre cada etapa de detreminada requisição do cliente, tudo isso precisa estar devidamente documentado para possíveis correções ou mudanças sobre os processos.
@@ -205,6 +214,9 @@ As soft skills quem me ajudaram no projeto foram:
 
 <details>
 <summary>API 4° Semestre (2024-1)</summary>
+<br>
+  
+### Projeto Synergy
 <br>
 
 O projeto foi desenvolvido em parceria com a SIATT, uma empresa de grande renome no setor aeroespacial, reconhecida por sua atuação na fabricação de mísseis para a Marinha Brasileira. A SIATT buscava uma solução eficiente para o gerenciamento de reuniões entre seus colaboradores, atendendo às demandas de comunicação e organização, especialmente em um cenário corporativo de alta complexidade.
@@ -261,6 +273,9 @@ As soft skills quem me ajudaram no projeto foram:
 <details>
 <summary>API 5° Semestre (2024-2)</summary>
 <br>
+  
+### Projeto ClimaTrack
+<br>
 
 A quinta API foi um desafio proposto pela Kersys, empresa que atua na área de gestão florestal, oferecendo sistemas específicos para o produtor rural que visa maximizar a análise de dados para determinado local. 
 
@@ -311,6 +326,9 @@ As soft skills quem me ajudaram no projeto foram:
 
 <details>
 <summary>API 6° Semestre (2025-1)</summary>
+<br>
+  
+### Projeto Auxia
 <br>
 
 Nessa API, a empresa parceira foi a Dom Rock, que atua no ramo de Big Data e Inteligência Artificial, fornecendo soluções para integração, análise e gerenciamento de grandes volumes de dados. Suas plataformas são voltadas para empresas, com foco na automação de decisões e melhoria de processos.
