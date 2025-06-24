@@ -358,11 +358,11 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 
 <h3>Contribuições Pessoais</h3>
 
-Minhas contribuições pessoais no projeto envolveram o desenvolvimento de diversos componentes reutilizáveis utilizando Vue, como campos de input, botões, caixas de conteúdo e modais, garantindo uma interface coesa e funcional. Implementei também modais de confirmação para assegurar a execução segura de ações críticas por parte do usuário.
+Minhas contribuições no projeto estiveram focadas no desenvolvimento frontend, utilizando o framework Vue para criar uma interface coesa, funcional e intuitiva. Desenvolvi diversos componentes reutilizáveis, como campos de input, botões, caixas de conteúdo e modais, que garantiram consistência visual e facilitaram a manutenção da interface.
 
-Fui responsável pela criação da página de conclusão exibida ao final do processo de avaliação, proporcionando um encerramento claro e intuitivo da experiência do usuário. Além disso, desenvolvi a lógica para redefinição de senha com critérios de segurança robustos, voltada especificamente para administradores do sistema.
+Implementei também modais de confirmação para ações críticas, assegurando que o usuário pudesse tomar decisões com mais segurança. Fui responsável pela página de conclusão apresentada ao final do processo de avaliação, proporcionando um encerramento claro à jornada do usuário.
 
-Por fim, configurei as rotas de redirecionamento entre páginas, garantindo uma navegação fluida e condizente com o fluxo da aplicação.
+Além disso, desenvolvi a lógica de redefinição de senha com critérios de segurança voltados para administradores, e realizei a configuração das rotas de navegação entre páginas, garantindo uma experiência fluida e alinhada ao fluxo da aplicação.
 
 
 ### Hard Skills
