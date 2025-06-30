@@ -43,8 +43,10 @@ A seguir, estão as ferramentas na área de TI que tenho mais afinidade ao longo
 
 ### Frameworks
 - Flask <img align="center" alt="Flask" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
-- React <img align="center" alt="Flask" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-- React Native <img align="center" alt="Flask" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+- React <img align="center" alt="React" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+- React Native <img align="center" alt="React Native" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+- Vue js <img align="center" alt="Vue js" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
+- FastAPI <img align="center" alt="FastAPI" height="18" width="18" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" />
 
 ## Meus Projetos
 
